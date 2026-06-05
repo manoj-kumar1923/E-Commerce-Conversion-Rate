@@ -65,7 +65,7 @@ Total Visitors → Sessions → Add-to-Cart → Checkout Initiated → Orders Pl
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-conversion-rate.git
+git clone https://github.com/manoj-kumar1923/E-Commerce-Conversion-Rate/blob/main/Screenshot_2026-06-05_165912%5B1%5D.png
 cd ecommerce-conversion-rate
 ```
 
